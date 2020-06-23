@@ -1,0 +1,28 @@
+*
+{
+    Padding:0;
+    margin:0;
+
+}
+
+.h1
+{
+align-text: center;
+}
+.menu-bar
+{
+    background: rgb(0,100,0);
+    text-align: center ;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
